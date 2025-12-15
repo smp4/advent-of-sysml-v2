@@ -35,13 +35,14 @@ Here is a complete list of lessons with links to YouTube videos and blog posts:
 4. **Specializations** ([YouTube](https://youtu.be/2FWxUGlkrE0?si=WbHCYznUAr2tGSq1), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-4-specializations/))
 5. **Modifiers and Multiplicities** ([YouTube](https://youtu.be/86YY4sXrSaM?si=-qD8BC6fB7VI1Dbf), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-5-modifiers-and-multiplicities/))
 6. **Version control with Git** ([YouTube](https://youtu.be/ijgh83xB0Pg?si=IMpjH0Irs7xHTBJj), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-6-version-control-with-git/))
-7. **Week 1 recap** ([YouTube](https://youtu.be/kv7c0oTrSyo?si=QB5UbROBd_95QjyB), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-7-week-1-recap/))
+7. **Week 1 Recap** ([YouTube](https://youtu.be/kv7c0oTrSyo?si=QB5UbROBd_95QjyB), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-7-week-1-recap/))
 8. **Packages and Names** ([YouTube](https://youtu.be/DChPckijZSQ?si=QivHmuEWyROPiw0w), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-8-packages-and-names/))
 9. **Sysand: Package Manager for SysML v2** ([YouTube](https://youtu.be/WuTqJraVx0w?si=O81vX-EKGb8WMeyZ), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-9-package-manager-for-sysml-v2/))
 10. **Comments and Annotations**  ([YouTube](https://youtu.be/mjgTf5SdL-4?si=ctPUOqOuL_wYMWL4), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-10-comments-and-annotations/))
 11. **Attributes and Quantities**  ([YouTube](https://youtu.be/-WqUHL4E1iY?si=Apr7hYSwUH3Sy44Y), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-11-attributes-and-quantities/))
 12. **Connections and Special Subsettings** ([YouTube](https://youtu.be/_5CbL0xOQ4s?si=bICj00fM1cldQatI), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-12-connections-and-special-subsettings/))
 13. **Ports, Interfaces, Items, and Flows** ([YouTube](https://youtu.be/qspuJD_kabc?si=NRl5815Sjvhdcyka), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-13-ports-interfaces-items-and-flows/))
+14. **Week 2 Recap**  ([YouTube](https://youtu.be/zoHyjoZGF_c?si=iGca1kpmi-m_-Z8F), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-14-week-2-recap/))
 
 ## Helper tools & tips
 
