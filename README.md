@@ -48,7 +48,7 @@ Here is a complete list of lessons with links to YouTube videos and blog posts:
 17. **Actions and Successions** ([YouTube](https://youtu.be/nsww9U5IBQA?si=HSzu3My4XpailmhX), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-17-actions-and-successions/))
 18. **State-Based Behaviors** ([YouTube](https://youtu.be/aFVrg0Sh_30?si=gETZQFUJHggoyZvb), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-18-state-based-behaviors/))
 19. **State Machine Simulation** ([YouTube](https://youtu.be/Ul8bH_i9_Yc?si=KiuI-W5e-CCAM83f), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-19-state-machine-simulation/))
-20. **CI/CD for SysML v2 models** ([YouTube](https://youtu.be/), [Blog post](https://sensmetry.com/advent-of-sysml-v2))
+20. **CI/CD for SysML v2 Models** ([YouTube](https://youtu.be/gL0ClDpbkPY?si=vT93eWlYgmSs1iIL), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-20-ci-cd-for-sysml-v2-models/))
 21.
 22.
 23.
